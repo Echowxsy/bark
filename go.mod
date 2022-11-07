@@ -1,5 +1,3 @@
-module github.com/ifacker/bark
+module github.com/echowxsy/bark
 
-go 1.18
-
-require github.com/ifacker/myutil v1.0.0
+go 1.19
